@@ -17,7 +17,7 @@ const timer = () => {
     const TIME_B = TWO_MIN.padStart(6, '0');
     const TIME_C = TWO_SEC.padStart(6, '0');
 
-    let timeex = '現在の時刻は' + TIME_A + '時' + TIME_B + '分' + TIME_C + '秒です'
+    let timeex = `現在の時刻は<br>${TIME_A}時${TIME_B}分${TIME_C}秒<br>です`;
 
     const ALERT_ = document.getElementById('time_');
 
