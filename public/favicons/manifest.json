@@ -1,8 +1,8 @@
 {
-	"name":				"",
-	"short_name":		"",
-	"description":		"",
-	"start_url":		"/",
+	"name":				"２進数時計",
+	"short_name":		"２進数時計",
+	"description":		"2024年度共通テストから着想を得てblogger84039によって作られた２進数時計。現在の時刻を２進数でリアルタイムに表示するだけという世界一無駄（自称）なサイト",
+	"start_url":		"/binaryNumClock/",
 	"display":			"standalone",
 	"orientation":		"any",
 	"background_color":	"#fff",
